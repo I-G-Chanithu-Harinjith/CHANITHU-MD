@@ -17,12 +17,12 @@ client.on('ready', () => {
 
 client.on('message', msg => {
 
-    // hi reply
+ // .hi reply
     if (msg.body.toLowerCase() === "hi") {
         msg.reply("Hello 👋 I am " + config.botName);
     }
 
-    // menu
+    // .menu
     if (msg.body === config.prefix + "menu") {
         msg.reply(
             `🤖 *${config.botName} Menu*\n\n` +
