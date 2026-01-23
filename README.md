@@ -1,6 +1,5 @@
 # CHANITHU-MD
 🤖 WhatsApp Automation Bot 🟢 Status: Online 📩 Auto-reply enabled 📜 Commands: !menu 👤 Owner: Active
-# DIPARMENT-LOKU-RIKO-V2
 
 CHANITHU MD 𝐖𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝐌𝙸𝙽𝙸 𝐁𝙾𝚃..💗
 
@@ -19,7 +18,8 @@ CHANITHU MD 𝐖𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝐌𝙸𝙽𝙸 𝐁𝙾𝚃..💗
 
 </p>
 
-<!-- Banner Image -->
+![Uploading ChatGPT Image Jan 7, 2026, 04_44_09 PM.png…]()
+
 <p align="center">
   <a href="https://iili.io/foiyWfR.md.png">
     <img src="https://iili.io/foiyWfR.md.png" width="100%" height="auto">
