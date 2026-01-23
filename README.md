@@ -5,29 +5,9 @@ CHANITHU MD 𝐖𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝐌𝙸𝙽𝙸 𝐁𝙾𝚃..💗
 
 # FREE-BOT-V.01-PROJECT-
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mini Bot Banner</title>
-<style>
-  body {
-    background-color: #000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    font-family: Arial, sans-serif;
-  }
 
-  .banner {
-    position: relative;
-    display: inline-block;
-    text-align: center;
-  }
-
+    
+   
   .banner img {
     width: 300px; /* Adjust size as needed */
     border-radius: 15px;
