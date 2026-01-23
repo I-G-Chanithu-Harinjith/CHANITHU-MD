@@ -41,3 +41,16 @@ CHANITHU MD 𝐖𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝐌𝙸𝙽𝙸 𝐁𝙾𝚃..💗
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </p>
+
+# Mini Bot
+
+A small bot created by I.G.CHANITHU HARINJITH
+
+## Features
+- Responds with greetings
+- Can be expanded easily
+
+## License
+This project is licensed under the Apache License 0.1.
+See the LICENSE file for details.
+
