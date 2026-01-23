@@ -5,24 +5,7 @@ CHANITHU MD 𝐖𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝐌𝙸𝙽𝙸 𝐁𝙾𝚃..💗
 
 # FREE-BOT-V.01-PROJECT-
 
-
-    
-   
-  .banner img {
-    width: 300px; /* Adjust size as needed */
-    border-radius: 15px;
-    box-shadow: 0 0 20px rgba(0,0,0,0.8);
-  }
-
-  .banner-text {
-    position: absolute;
-    bottom: 10px;
-    width: 100%;
-    color: #fff;
-    font-size: 16px;
-    letter-spacing: 1px;
-    text-shadow: 1px 1px 8px #000;
-  }
+}
 </style>
 </head>
 <body>
@@ -34,18 +17,9 @@ CHANITHU MD 𝐖𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝐌𝙸𝙽𝙸 𝐁𝙾𝚃..💗
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-*_CHANITHU MD MINI BOT TEXT MASSAGE🪻_*
+    
+   
+  *_CHANITHU MD MINI BOT TEXT MASSAGE🪻_*
 
 
 
