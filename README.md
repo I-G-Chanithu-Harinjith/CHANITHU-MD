@@ -5,20 +5,9 @@ CHANITHU MD 𝐖𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝐌𝙸𝙽𝙸 𝐁𝙾𝚃..💗
 
 # FREE-BOT-V.01-PROJECT-
 
-}
-</style>
-</head>
-<body>
+![Uploading ChatGPT Image Jan 7, 2026, 04_44_09 PM.png…]()
 
-<div class="banner">
-  <img src="a936cfff-0c1e-4b73-99bf-b38c726181e1.png" alt="Mini Bot Banner">
-  <div class="banner-text">I.G. CHARINJITH</div>
-</div>
 
-</body>
-</html>
-    
-   
   *_CHANITHU MD MINI BOT TEXT MASSAGE🪻_*
 
 
