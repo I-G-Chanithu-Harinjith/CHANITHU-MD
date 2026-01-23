@@ -11,7 +11,7 @@ CHANITHU MD 𝐖𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝐌𝙸𝙽𝙸 𝐁𝙾𝚃..💗
 
 </p>
 
-<!-- Alive Footer Animation -->
+<!![Uploading ChatGPT Image Jan 7, 2026, 04_44_09 PM.png…]()  
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </p>
